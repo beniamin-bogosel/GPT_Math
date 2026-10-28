@@ -1,6 +1,6 @@
 # Mathematical results
 
-Research notes by Beniamin Bogosel, with papers, references and reproducible supplementary calculations. Each result has its own directory under [`Results`](Results). LaTeX manuscript sources and auxiliary build files are excluded from version control; the finished PDFs and BibTeX references are included.
+Research notes by [Beniamin Bogosel](https://beniamin-bogosel.github.io/), Aurel Vlaicu University of Arad ([email](mailto:beniamin.bogosel@uav.ro)), with papers, references and reproducible supplementary calculations. Each result has its own directory under [`Results`](Results). LaTeX manuscript sources and auxiliary build files are excluded from version control; the finished PDFs and BibTeX references are included.
 
 Read the numbered abstracts in [Abstracts.md](Abstracts.md).
 
@@ -12,4 +12,4 @@ Read the numbered abstracts in [Abstracts.md](Abstracts.md).
 
 Run the first note's supplementary mathematical checks with `make check`; Python dependencies are recorded in its result directory. Its local manuscript can be rebuilt with `make pdf` when the excluded LaTeX source is available (requires pdfLaTeX and BibTeX). See the [result README](Results/QuantitativeIsoperimetric/README.md) for details and the [research audit](Results/QuantitativeIsoperimetric/RESEARCH_AUDIT.md) for the literature assessment.
 
-The first manuscript records the use of AI assistance and retains human authorship and responsibility. The note is prepared for public circulation; it has not undergone journal peer review.
+The manuscripts acknowledge assistance from OpenAI GPT models; the author retains responsibility for the content. The first note is prepared for public circulation; it has not undergone journal peer review.

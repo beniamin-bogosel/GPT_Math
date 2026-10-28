@@ -1,5 +1,9 @@
 # Abstracts
 
+Author: [Beniamin Bogosel](https://beniamin-bogosel.github.io/), Faculty of Exact Sciences, Aurel Vlaicu University of Arad, Arad, Romania. Email: [beniamin.bogosel@uav.ro](mailto:beniamin.bogosel@uav.ro).
+
+Prepared with assistance from OpenAI GPT models. The author retains responsibility for the content.
+
 ## 1. A sharp polygonal Finsler–Hadwiger inequality
 
 [Paper (PDF)](Results/QuantitativeIsoperimetric/sharp_polygonal_finsler_hadwiger.pdf)

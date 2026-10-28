@@ -2,6 +2,8 @@
 
 Beniamin Bogosel, supported by GPT-5.6 Sol (OpenAI). Revised October 28, 2026.
 
+Faculty of Exact Sciences, Aurel Vlaicu University of Arad, Arad, Romania. [Email](mailto:beniamin.bogosel@uav.ro) · [Webpage](https://beniamin-bogosel.github.io/).
+
 - [Paper (PDF)](sharp_polygonal_finsler_hadwiger.pdf)
 - [References (BibTeX)](references.bib)
 - [Research audit and literature assessment](RESEARCH_AUDIT.md)
